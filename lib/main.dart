@@ -347,7 +347,7 @@ class _CrudOperationState extends State<CrudOperation>
                                 subtitle: Row(
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
-                                    Text('Student tID: $studentID'),
+                                    Text('Student ID: $studentID'),
                                     Text(' Program ID: $programID'),
                                     Text(' GPA: $studentGPA'),
                                   ],
