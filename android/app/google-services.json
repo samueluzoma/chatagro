@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251389723721",
+    "project_id": "chat-farmer",
+    "storage_bucket": "chat-farmer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251389723721:android:a0e280edcb41513049ab98",
+        "android_client_info": {
+          "package_name": "com.example.chatagro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWT4AP1vJ12aS2s0cLLr3CceewZrMrEC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
